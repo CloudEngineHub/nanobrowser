@@ -234,3 +234,7 @@ Este proyecto está bajo la Licencia Apache 2.0 - consulta el archivo [LICENSE](
 Hecho con ❤️ por el equipo de Nanobrowser.
 
 ¿Te gusta Nanobrowser? ¡Danos una estrella 🌟 y únete a nosotros en [Discord](https://discord.gg/NN3ABHggMK) | [X](https://x.com/nanobrowser_ai)
+
+## 🔗 Nuestros otros productos
+
+- [Directorio de plugins de DSH](https://dsh.directory/): Descubre plugins comunitarios instalables para DeepSeek Harness por categoría, popularidad y actividad.

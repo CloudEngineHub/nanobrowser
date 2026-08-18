@@ -261,6 +261,10 @@ Sevgiyle yapıldı ❤️ Nanobrowser Ekibi tarafından.
 
 Nanobrowser’ı sevdiniz mi? Bize bir yıldız 🌟 verin ve topluluğumuza katılın: [Discord](https://discord.gg/NN3ABHggMK) | [X](https://x.com/nanobrowser_ai)
 
+## 🔗 Diğer Ürünlerimiz
+
+- [DSH Eklenti Dizini](https://dsh.directory/): DeepSeek Harness için kurulabilir topluluk eklentilerini kategoriye, popülerliğe ve etkinliğe göre keşfedin.
+
 ---
 
 📘 **Türkçe çeviri katkısı**: Burak Can Öğüt
